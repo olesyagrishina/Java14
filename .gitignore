@@ -42,3 +42,9 @@ build/
 target/
 
 .iml
+
+hs_err_pid10152.log
+
+hs_err_pid11236.log
+
+replay_pid10152.log
